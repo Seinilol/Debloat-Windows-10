@@ -90,7 +90,15 @@ $apps = @(
     "SpotifyAB.SpotifyMusic"
     "A278AB0D.DisneyMagicKingdoms"
     "WinZipComputing.WinZipUniversal"
-
+    "26720RandomSaladGamesLLC.SimpleMahjong"
+    "AD2F1837.HPJumpStart"
+	"0D16BB98.Houzz"
+	"CyberLinkCorpYCM.YouCamBE"
+	"64885BlueEdge.OneCalendar"
+    "61908RichardWalters.Calculator"
+    "A278AB0D.DragonManiaLegends"
+    "828B5831.HiddenCityMysteryofShadows"
+    "7EE7776C.LinkedInforWindows"
 
     # apps which cannot be removed using Remove-AppxPackage
     #"Microsoft.BioEnrollment"
